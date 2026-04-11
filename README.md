@@ -104,10 +104,3 @@ The script constructs a YouTube channel videos URL (`https://www.youtube.com/@ch
 ## License
 
 MIT License
-
----
-
-You can now copy and paste this directly into your `README.md` file.
-
-Would you like me to also create a `requirements.txt` file content and maybe add a "Troubleshooting" section?
-```
