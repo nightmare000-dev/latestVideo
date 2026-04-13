@@ -12,6 +12,7 @@ Built with **Click** for CLI handling and **Rich** for beautiful console output.
 - Clean and colorful output
 - Fast and lightweight (no video download)
 - Easy to use via command line
+```
 
 ## Installation
 
